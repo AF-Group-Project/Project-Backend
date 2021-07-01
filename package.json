@@ -22,10 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Conference-Management-System/conference-back-end.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Conference-Management-System/conference-back-end/issues"
-  },
-  "homepage": "https://github.com/Conference-Management-System/conference-back-end#readme"
+    "url": "https://github.com/Danuzon/Grp-Project.git"
+  }
 }
